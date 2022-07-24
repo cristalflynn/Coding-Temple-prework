@@ -3,6 +3,7 @@
 
 def hello_name(user_name):
        print("Hello " + user_name + "!")
+user_name=input("Enter Username")
     
 hello_name("Cristal")
 
